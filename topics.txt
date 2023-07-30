@@ -1,0 +1,7 @@
+1):nth child 
+2)Linear gradient
+3)We can add multiple classes and seperate with space like class="name1 name2" 
+4)Testimonial slider 
+5)box-sizing: border-box;
+6)Position relative and absolute
+7)Display:flex; and its properties like justify-content, align-items and align-content;
